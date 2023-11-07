@@ -1,0 +1,2 @@
+# ClickOnce-Initializer
+ClickOnce形式インストーラーでのインストールエラーが発生した場合に使用する修復プログラム
